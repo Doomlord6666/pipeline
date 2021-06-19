@@ -1,5 +1,3 @@
- lines (15 sloc)  366 Bytes
- 
 pipeline {	 
 	agent any	 
     	stages {     	 
